@@ -1,0 +1,14 @@
+{
+    "name": "k1sul1/noscript-alert",
+    "description": "Must-use plugin for WordPress for telling users that they have JS disabled",
+    "type": "wordpress-muplugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Christian Nikkanen",
+            "email": "me@kisu.li"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
